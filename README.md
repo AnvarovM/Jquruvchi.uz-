@@ -1,0 +1,2 @@
+# Jquruvchi
+Jquruvchi  sayti
