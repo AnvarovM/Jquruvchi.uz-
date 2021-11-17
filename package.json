@@ -1,0 +1,37 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "d3-ease": "^3.0.1",
+    "google-maps-react": "^2.0.6",
+    "hamburger-react": "^2.4.1",
+    "jquery-parallax.js": "^1.5.0",
+    "next": "latest",
+    "react": "^17.0.2",
+    "react-animated-css": "^1.2.1",
+    "react-animated-numbers": "^0.8.0",
+    "react-circular-progressbar": "^2.0.4",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "react-move": "^6.5.0",
+    "react-parallax": "^3.3.0",
+    "react-reveal": "^1.2.2",
+    "react-slick": "^0.28.1",
+    "react-spinners": "^0.11.0",
+    "react-toggle-dark-mode": "^1.0.4",
+    "react-yandex-maps": "^4.6.0",
+    "simple-react-lightbox": "^3.6.9-0",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "eslint": "^7.32.0",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4"
+  }
+}
