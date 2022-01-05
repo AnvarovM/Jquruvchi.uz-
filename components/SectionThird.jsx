@@ -122,9 +122,9 @@ function SectionThird() {
                 <FaQuoteLeft className="text-2xl md:3xl text-center mx-auto text-[#252525]" />
                 <h1 className="text-md md:text-2xl my-3 font-extrabold text-black tracking-widest">
                   <span className="text-yellow-400">
-                    Lorem ipsum dolor sit amet,{" "}
+                    Qurulishlar ajoyib.
                   </span>{" "}
-                  consectetur adipisicing <br /> elit. Dolorum, illo.
+                  Sifatiga esa gap yo`q.
                 </h1>
               </div>
             </div>
@@ -143,9 +143,9 @@ function SectionThird() {
                 <FaQuoteLeft className="text-2xl md:3xl text-center mx-auto text-[#252525]" />
                 <h1 className="text-md md:text-2xl my-3 font-extrabold text-black tracking-widest">
                   <span className="text-yellow-400">
-                    Lorem ipsum dolor sit amet,{" "}
+                    Shunchaki gap yo`q.
                   </span>{" "}
-                  consectetur adipisicing <br /> elit. Dolorum, illo.
+                  Jqurvchiga omad tilayman.
                 </h1>
               </div>
             </div>
@@ -164,9 +164,9 @@ function SectionThird() {
                 <FaQuoteLeft className="text-2xl md:3xl text-center mx-auto text-[#252525]" />
                 <h1 className="text-md md:text-2xl my-3 font-extrabold text-black tracking-widest">
                   <span className="text-yellow-400">
-                    Lorem ipsum dolor sit amet,{" "}
+                    Jquruvchi qurgan bog`chadan,
                   </span>{" "}
-                  consectetur adipisicing <br /> elit. Dolorum, illo.
+                  Bolalar hayratda.
                 </h1>
               </div>
             </div>

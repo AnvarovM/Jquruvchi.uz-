@@ -1,28 +1,28 @@
 export const navItem = [
   {
     id: "1",
-    title: "Home",
+    title: "Asosiy",
     slash: "/",
     path: "/",
     class: "nav-active",
   },
   {
     id: "2",
-    title: "About us",
+    title: "Biz haqimizda",
     slash: "/",
     path: "/about",
     class: "nav-item",
   },
   {
     id: "3",
-    title: "Projects",
+    title: "Proyektlar",
     slash: "/",
     path: "/projects",
     class: "nav-item",
   },
   {
     id: "5",
-    title: "Contact",
+    title: "Aloqa",
     path: "/contact",
     class: "nav-item",
   },
@@ -48,16 +48,16 @@ export const carousel_data = [
   {
     img: '/images/slider1.jpg',
     headingTop: 'Jquruvchi',
-    headingSpan: 'Hvac',
-    heading: 'products dealer',
+    headingSpan: 'Eng',
+    heading: 'Asosiysi juda mustahkam',
     button: 'Aloqaga chiqish',
     paragraph: 'Orzuingizdagi uyni qurishimizga ruxsat bering'
   },
   {
     img: '/images/apartment.jpg',
     headingTop: 'Jquruvchi',
-    headingSpan: 'Hvac',
-    heading: 'products dealer',
+    headingSpan: 'Dizyni',
+    heading: 'esa a`lo darajada',
     button: 'Aloqaga chiqish',
     paragraph: 'Orzuingizdagi uyni qurishimizga ruxsat bering'
   },
@@ -68,28 +68,28 @@ export const carousel_data = [
 export const sidebarItem = [
   {
     id: "11",
-    title: "Home",
+    title: "Asosiy",
     slash: "/",
     path: "/",
     class: "sidebar-item",
   },
   {
     id: "12",
-    title: "About",
+    title: "Biz haqimizda",
     slash: "/",
     path: "/about",
     class: "sidebar-item",
   },
   {
     id: "13",
-    title: "Projects",
+    title: "Proyektlar",
     slash: "/",
     path: "/projects",
     class: "sidebar-item",
   },
   {
     id: "15",
-    title: "Contact",
+    title: "Aloqa",
     path: "/contact",
     class: "sidebar-item",
   },
@@ -108,25 +108,25 @@ export const first_section_data = [
     id: "100",
     title: "Zamonaviy",
     paragraph:
-      "Sit felis vitae nulla tincidunt. Velit ut lectus donec, proin metus aenean dolor nunc, at arcu malesuada.",
+      "Mukammallik merosini yaratish.",
   },
   {
     id: "101",
     title: "Sifatli",
     paragraph:
-      "Sit felis vitae nulla tincidunt. Velit ut lectus donec, proin metus aenean dolor nunc, at arcu malesuada.",
+      "Kompaniya innovatsion, zamonaviy va yuqori sifatli mahsulotlarni taqdim etishga intiladi.",
   },
   {
     id: "102",
     title: "Mustahkam",
     paragraph:
-      "Sit felis vitae nulla tincidunt. Velit ut lectus donec, proin metus aenean dolor nunc, at arcu malesuada.",
+      "Foydali va mustahkam binolar qurishga ntilamiz.",
   },
   {
     id: "103",
     title: "Ishonchli",
     paragraph:
-      "Sit felis vitae nulla tincidunt. Velit ut lectus donec, proin metus aenean dolor nunc, at arcu malesuada.",
+      "Qiymatli mijozlar va yuqori samarali xodimlar uchun tanlov quruvchisi bo'lish..",
   }
 ];
 
@@ -175,19 +175,19 @@ export const second_section_data = [
 export const footerItem = [
   {
     id: "21",
-    title: "Home",
+    title: "Asosiy",
     path: "/",
     class: "navActive",
   },
   {
     id: "22",
-    title: "About",
+    title: "Biz haqimizda",
     path: "/about",
     class: "nav-item",
   },
   {
     id: "23",
-    title: "Projects",
+    title: "Proyektlar",
     path: "/projects",
     class: "nav-item",
   },
@@ -200,36 +200,22 @@ export const data_accardion = [
   {
     id: 1,
     num: 1,
-    title: 'Do I have to allow the use of cookies?',
+    title: 'O`zi bu qanday kompaniya',
     info:
-      'Unicorn vinyl poutine brooklyn, next level direct trade iceland. Shaman copper mug church-key coloring book, whatever poutine normcore fixie cred kickstarter post-ironic street art.',
+      '10 yildan beri Jizzax va Jizzax viloyatini bio va inshaotlar bilan ta`minlab kelayotgan kompaniyamiz. To`liq malumot biz haqimizda degan sahifasidan olasiz!',
   },
   {
     id: 2,
     num: 2,
-    title: 'How do I change my My Page password?',
+    title: 'Binolaringiz sifatiga javob bera olasizmi?',
     info:
-      'Coloring book forage photo booth gentrify lumbersexual. Migas chillwave poutine synth shoreditch, enamel pin thundercats fashion axe roof party polaroid chartreuse.',
-  },
-  {
-    id: 3,
-    num: 3,
-    title: 'What is BankID?',
-    info:
-      'Enamel pin fam sustainable woke whatever venmo. Authentic asymmetrical put a bird on it, lumbersexual activated charcoal kinfolk banjo cred pickled sartorial.',
+      'Biz qurgan binolarmizni sifatini bilboqchi bo`lsangiz shunchaki biz qurgan binolarga qarang. Buning uchun esa Proyektlar sahifasiga o`ting',
   },
   {
     id: 4,
     num: 4,
-    title: 'Whose birth number can I use?',
+    title: 'Qanday aloqaga chiqsam boladi?',
     info:
-      'Edison bulb direct trade gentrify beard lo-fi seitan sustainable roof party franzen occupy squid. Knausgaard cronut succulents, scenester readymade shabby chic lyft. Copper mug meh vegan gentrify.',
-  },
-  {
-    id: 5,
-    num: 5,
-    title: 'When do I recieve a password ordered by letter?',
-    info:
-      'Locavore franzen fashion axe live-edge neutra irony synth af tilde shabby chic man braid chillwave waistcoat copper mug messenger bag. Banjo snackwave blog, microdosing thundercats migas vaporware viral lo-fi seitan ',
-  },
+      'Shunchaki bizga qo`ng`iroq qiling. Buning uchun aloqa sahifasiga o`ting',
+  }
 ]

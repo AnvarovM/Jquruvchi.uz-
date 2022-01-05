@@ -35,16 +35,14 @@ export default function Home() {
       </Head>
 
       <div className="overflow-x-hidden overscroll-y-contain">
-        {loading ? (
-          <Loader />
-        ) : (
+        
           <div className="App">
             <Header />
             <HomePage />
             <Contact />
             <Footer />
           </div>
-        )}
+        
       </div>
     </div>
   );

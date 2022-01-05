@@ -30,13 +30,15 @@ function Footer() {
           </nav>
           <div className="flex flex-col items-center mx-4 space-y-4 sm:flex-row justify-between pt-6">
             <BsTelegram className="text-3xl mr-2 mt-4 hover:text-[#2da7db] text-white cursor-pointer transition-all duration-300" />
+            <a href="https://www.instagram.com/j.quruvchimchj/">
             <BsInstagram className="text-3xl mr-2 hover:text-[#d44965] text-white cursor-pointer transition-all duration-300" />
+            </a>
             <BsFacebook className="text-3xl mr-2 hover:text-[#4167b1] text-white cursor-pointer transition-all duration-300" />
           </div>
         </div>
       </div>
       <p className="text-center mt-2 mx-1 lg:mx-5 border-t border-gray-600 pt-4">
-        <a href="#!" className="animate-pulse text-yellow-500">
+        <a href="https://teamit.uz/" className="animate-pulse text-yellow-500">
           TeamIt coders
         </a>
         , 2021 © Barcha huquqlar himoyalangan.

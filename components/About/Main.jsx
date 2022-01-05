@@ -20,7 +20,7 @@ function Services() {
         </div>
 
         {/* tashkilot azolari */}
-        <div className="xl:mx-56 lg:mx-32 pb-10 lg:pb-32 grid grid-cols-1 md:grid-cols-3 text-center text-white font-semibold">
+        <div className="max-w-screen-2xl mx-auto pb-10 lg:pb-32 grid grid-cols-1 md:grid-cols-3 text-center text-white font-semibold">
           <div className="flex flex-col text-[#252525] items-center">
             <img
               className="w-64 rounded-full overflow-hidden"
