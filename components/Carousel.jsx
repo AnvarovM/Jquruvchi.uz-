@@ -51,7 +51,7 @@ function Carousel() {
                 </a>
                 </Link>
               </div>
-              <div className="absolute top-3/4 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
+              <div className="hidden sm:block absolute top-3/4 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
                 <p className="text-white text-center">
                   {item.paragraph}
                 </p>
