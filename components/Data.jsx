@@ -56,7 +56,7 @@ export const carousel_data = [
   {
     img: '/images/apartment.jpg',
     headingTop: 'Jquruvchi',
-    headingSpan: 'Dizyni',
+    headingSpan: 'Dizayni',
     heading: 'esa a`lo darajada',
     button: 'Aloqaga chiqish',
     paragraph: 'Orzuingizdagi uyni qurishimizga ruxsat bering'
