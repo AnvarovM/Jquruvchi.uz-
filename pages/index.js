@@ -22,7 +22,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title> Jquruvchi | home </title>
+        <title> Jquruvchi | asosiy </title>
         <link rel="icon" href="/images/Jquruvchi.png" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />

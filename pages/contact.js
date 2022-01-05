@@ -20,7 +20,7 @@ function About() {
     <div>
       <Head>
         <link rel="icon" href="/images/Jquruvchi.png" />
-        <title> Jquruvchi | contact </title>
+        <title> Jquruvchi | aloqa </title>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link

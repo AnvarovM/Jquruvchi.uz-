@@ -21,7 +21,7 @@ function About() {
     <div>
       <Head>
         <link rel="icon" href="/images/Jquruvchi.png" />
-        <title> Jquruvchi | projects </title>
+        <title> Jquruvchi | proyektlar </title>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link
