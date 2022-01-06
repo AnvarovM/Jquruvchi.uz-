@@ -12,10 +12,10 @@ function Header() {
       <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-center text-white uppercase select-none font-roboto">
         <Link href="/">
           <a className="font-semibold text-1xl md:text-2xl hover:text-yellow-500 transition-all duration-300">
-            home
+            Asosiy
           </a>
         </Link>
-        <h1 className="pt-5 text-3xl md:text-5xl font-extrabold text-yellow-400">Projects</h1>
+        <h1 className="pt-5 text-3xl md:text-4xl font-extrabold text-yellow-400">Proyektlar</h1>
       </div>
     </div>
   );

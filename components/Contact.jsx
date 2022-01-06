@@ -55,6 +55,7 @@ function Contact() {
         </Fade>
         <Fade bottom>
           <div className="p-3 cursor-pointer">
+            <a href="https://www.instagram.com/j.quruvchimchj/">
             <div className="border-l flex justify-between items-center border-[#cb2e75] p-4 bg-[#f5f7f9] hover:bg-white rounded-md">
               <div className="flex">
                 <img
@@ -65,6 +66,7 @@ function Contact() {
               </div>
               <FaInstagram className="text-[#cb2e75] " />
             </div>
+            </a>
           </div>
         </Fade>
         <Fade bottom>

@@ -12,7 +12,7 @@ function Footer() {
           <p>Uzbekiston, Jizzax shahar, Toshkent ko'cha, 1A uy</p>
           <p>j-quruvchi@mail.ru</p>
           <div className="flex text-white hover:text-yellow-500 text-sm lg:text-lg transition-all duration-300 font-normal">
-            <MdCall className="animate-ping text-lg mr-2" />{" "}
+            <MdCall className="text-lg mr-2" />{" "}
             <h2>+998 72 223 28 76 | 7/24</h2>{" "}
           </div>
         </div>

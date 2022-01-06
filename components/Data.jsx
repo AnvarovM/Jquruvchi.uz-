@@ -40,7 +40,7 @@ export const carousel_data = [
   {
     img: '/images/slider.jpg',
     headingTop: 'Jquruvchi',
-    headingSpan: '"20"',
+    headingSpan: '"25"',
     heading: 'Yillik tajribaga ega.',
     button: 'Aloqaga chiqish',
     paragraph: 'Orzuingizdagi uyni qurishimizga ruxsat bering'
@@ -108,7 +108,7 @@ export const first_section_data = [
     id: "100",
     title: "Zamonaviy",
     paragraph:
-      "Mukammallik merosini yaratish.",
+      "Kelajak avlod uchun, mukammallik merosini yaratish.",
   },
   {
     id: "101",
@@ -120,13 +120,13 @@ export const first_section_data = [
     id: "102",
     title: "Mustahkam",
     paragraph:
-      "Foydali va mustahkam binolar qurishga ntilamiz.",
+      "Foydali va mustahkam binolar qurishga intilamiz.",
   },
   {
     id: "103",
     title: "Ishonchli",
     paragraph:
-      "Qiymatli mijozlar va yuqori samarali xodimlar uchun tanlov quruvchisi bo'lish..",
+      "Jamiyatning oxirgi 3 yildagi bajargan qurilish montaj ishlari qiymati – 125,0 mlrd.so‘m",
   }
 ];
 
@@ -200,16 +200,23 @@ export const data_accardion = [
   {
     id: 1,
     num: 1,
-    title: 'O`zi bu qanday kompaniya',
+    title: 'O`zi bu qanday jamiyat',
     info:
-      '10 yildan beri Jizzax va Jizzax viloyatini bio va inshaotlar bilan ta`minlab kelayotgan kompaniyamiz. To`liq malumot biz haqimizda degan sahifasidan olasiz!',
+      'Bizning jamiyat 1997 yilda tashkil etilgan bo`lib, 25 yildan beri Jizzax va Jizzax viloyatini bio va inshaotlar bilan ta`minlab kelayotgan jamiyatmiz. Jamiyat ta`sischisi tassarufidagi ishlab chiqarish korxonalar:“Zenatkor TBB” MChJ, “Sogdiana pipeplast” MChJ To`liq malumot biz haqimizda degan sahifasidan olasiz!',
   },
   {
     id: 2,
     num: 2,
     title: 'Binolaringiz sifatiga javob bera olasizmi?',
     info:
-      'Biz qurgan binolarmizni sifatini bilboqchi bo`lsangiz shunchaki biz qurgan binolarga qarang. Buning uchun esa Proyektlar sahifasiga o`ting',
+      'Biz qurgan binolarmizni sifatini bilmoqchi bo`lsangiz shunchaki biz qurgan binolarga qarang. Buning uchun esa Proyektlar sahifasiga o`ting',
+  },
+  {
+    id: 3,
+    num: 3,
+    title: 'Jamiyatning holati qanday?',
+    info:
+      'Jamiyat qurilish mashina mexanizmlari soni: jumladan, eksavator -2ta, buldozer-4ta, avtokran-3ta, avtopogruzchik. Jamiyatning kichik mexanizmlari soni: balgarka -4ta, drel -5ta, payvandlash apparati-2ta, betonomeshalka-2ta, prefarator -2ta, elektrarra-3ta. 7. Jamiyatda xodim-ishchilar soni: 200 ta jumladan, ma`muriy xodimlar 25 ta, ishchi-xodimlar 175 ta Mavsumiy ishchilar soni 300 ta. Jamiyatning ishlab chiqarish sexlar soni:  3 ta jumladan,  akfa sexi, payvandlash sexi, tokarlik sexi,'
   },
   {
     id: 4,
@@ -217,5 +224,13 @@ export const data_accardion = [
     title: 'Qanday aloqaga chiqsam boladi?',
     info:
       'Shunchaki bizga qo`ng`iroq qiling. Buning uchun aloqa sahifasiga o`ting',
+  }
+  ,
+  {
+    id: 5,
+    num: 5,
+    title: 'Qanday natijalarga erishgan?',
+    info:
+      'Jamiyatning oxirgi 3 yildagi bajargan qurilish montaj ishlari qiymati – 125,0 mlrd.so‘m',
   }
 ]

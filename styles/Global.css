@@ -28,7 +28,7 @@
     }
 
     .nav-button {
-        @apply px-6 py-2 bg-yellow-400 rounded-md text-lg animate-pulse
+        @apply px-6 py-2 bg-yellow-400 rounded-md text-lg
     }
 
     .active {
@@ -52,7 +52,7 @@
     }
 
     .carousel_button {
-        @apply py-5 px-6 lg:px-10 lg:py-6 flex items-center justify-center bg-red-500 hover:bg-red-400 mt-5 rounded-md text-white uppercase animate-pulse transition-all duration-500
+        @apply py-5 px-6 lg:px-10 lg:py-6 flex items-center justify-center bg-red-500 hover:bg-red-400 mt-5 rounded-md text-white uppercase  transition-all duration-500
     }
 
     .sidebar-item {

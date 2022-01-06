@@ -56,7 +56,7 @@ function SectionThird() {
             />
             <h4 className="font-semibold py-4">MUSURMONQULOV ALISHER</h4>
             <p className="font-medium">
-              Lavozimi: "JQuruvchi" Jamiyati Ta`Sischisi
+             Lavozimi: "JQuruvchi" Ish Yurituvchisi
             </p>
             <p className="">Tel: +998 72 223-28-76</p>
           </div>
@@ -68,7 +68,7 @@ function SectionThird() {
             />
             <h4 className="font-semibold py-4">OLIMOV ISLOM</h4>
             <p className="font-medium">
-              Lavozimi: "JQuruvchi" Jamiyati Ta`Sischisi
+                Lavozimi: "JQuruvchi" Ta'minotchisi
             </p>
             Tel: +998 72 223-28-76
           </div>
@@ -85,7 +85,7 @@ function SectionThird() {
           strength={200}
         ></Parallax>
         <div className="">
-          <h1 className="mx-4 md:absolute left-7 md:left-24 text-center md:text-left top-0 my-7 sm:top-5 lg:top-8 text-[#252525] uppercase text-lg font-semibold">
+          <h1 className="mx-4 md:absolute left-7 md:left-24 text-center md:text-left top-0 my-7 sm:top-5 lg:top-8 text-[#252525] md:text-white uppercase text-lg font-semibold">
             Eng ko'p beriladigan savollar
           </h1>
           <div className="accardion mx-4 md:absolute left-7 md:left-24 top-0 sm:top-24 lg:top-28 bg-white">

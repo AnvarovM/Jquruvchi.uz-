@@ -41,7 +41,7 @@ function Services() {
             />
             <h4 className="font-semibold py-4">MUSURMONQULOV ALISHER</h4>
             <p className="font-medium">
-              Lavozimi: "JQuruvchi" Jamiyati Ta`Sischisi
+             Lavozimi: "JQuruvchi" Ish Yurituvchisi
             </p>
             <p className="">Tel: +998 72 223-28-76</p>
           </div>
@@ -53,7 +53,7 @@ function Services() {
             />
             <h4 className="font-semibold py-5">OLIMOV ISLOM</h4>
             <p className="font-medium">
-              Lavozimi: "JQuruvchi" Jamiyati Ta`Sischisi
+              Lavozimi: "JQuruvchi" Ta'minotchisi
             </p>
             Tel: +998 72 223-28-76
           </div>
@@ -93,9 +93,7 @@ function Services() {
                 Bizning maqsadimiz
               </h4>
               <p className="text-gray-500 font-normal text-lg">
-                Bizning maqsadimiz manfaatdor tomonlarga qiymat beradigan
-                ko'chmas mulk bo'yicha diversifikatsiyalangan ishlanmalarni
-                yaratishdir.{" "}
+              Jamiyat qurilish-montaj ishlarini bajarishda tajribali va malakali soha mutaxassislari tomonidan sifatli, arzon va o‘z vaqtida bajarilishi kafolatlangan.
               </p>
             </div>
           </div>
@@ -128,11 +126,7 @@ function Services() {
           Biz kimmiz va nima qilamiz.
         </h1>
         <p className="font-madium text-gray-500">
-          JQuurvchi - Jizzah shahrida joylashgan zamonaviy ko'chmas mulkni
-          rivojlantirish bo'yicha etakchi kompaniya. Biz mijozlarimizga miqdoriy
-          qiymatni taqdim etadigan juda yuqori sifatli turar-joy va tijorat
-          mulklarini taqdim etamiz. Biz mulkimizga sarmoya kiritish oilaviy
-          merosning boshlanishi deb o'ylashni yaxshi ko'ramiz.
+          JQuurvchi - 1997-yilda tashkil qilingan qurilish jamiyati. Jamiyat tassarufida “Zenatkor TBB” MChJ, “Sogdiana pipeplast” MChJ jamiyatlari bor bo`lib,  hozirgi kunda 200 ta ishchidan iboratmiz. Jumladdan 25tasi mamuriy xodimlar, 175tasi esa ischi xodimlar. Jamiyatning oxirgi 3 yildagi bajargan qurilish montaj ishlari qiymati – 125,0 mlrd.so‘mni tashkil etadi.
         </p>
         <img
           className="w-[800px] max-w-full mx-auto py-14"
@@ -140,25 +134,14 @@ function Services() {
           alt=""
         />
         <p className="font-madium text-gray-500">
-          JQuruvchi ko'chmas mulk madaniyatining markazida mijozlarimizga qiymat
-          berish istagi yotadi. Rivojlanish bo'yicha hamkorlarni tanlashdan
-          tortib kalitlarni topshirishgacha kompaniya har bir detalning
-          benuqsonligiga ishonch hosil qilish uchun va'dasini bajarishga
-          intiladi.{" "}
+        Jamiyat qurilish-montaj ishlarini bajarishda tajribali va malakali soha mutaxassislari tomonidan sifatli, arzon va o‘z vaqtida bajarilishi kafolatlangan.
         </p>
         <p className="font-madium text-gray-500">
-          Ishlanmalar mumkin bo'lgan eng yuqori standartlarga yetkazilishini
-          ta'minlash va bu bizning barcha ishlanmalarimiz uchun umumiy bo'lgan
-          hashamat, qulaylik va qiymatni ta'minlash orqali mijozlarning
-          umidlarini qondirish. Doimiy g'ayrioddiy bo'lishga intilish Hall7 Real
-          Estate kompaniyasini nafaqat sifatli loyihalarni amalga oshirishga
-          e'tibor qaratishga emas, balki sarmoyadan barqaror daromad olishni
-          ta'minlaydigan sarmoyaviy maslahat xizmatlarini taklif qilishga
-          ilhomlantirgan narsadir.{" "}
+        Jamiyatning bajariladigan ish hajmlarini qurilish korxonalariga nisbatan arzon narxlarda bajarib berilishini asosiy sabablaridan jamiyat ta'sischisining ishlab chiqarish korxonalari bo‘lgan  “Zenatkor TBB” MChJ, “Sogdiana pipeplast” MChJ mahsulotlarini ishlab chiqarish tan narxlarida ishlatilishidadir.
         </p>
         <p className="font-madium text-gray-500">
           Halollik, majburiyat va sifat biz tomonidan boshqariladigan
-          qadriyatlardir, ular bizning tashkilotimizning asosini tashkil qiladi.
+          qadriyatlardir, ular bizning jamiyatimizning asosini tashkil qiladi.
         </p>
       </div>
     </div>
